@@ -30,8 +30,8 @@ main:
   #  url: /youtube/
         
     
-  - title: "CV"
-     url: /files/CV-02_22_2026-KazemBakianDogaheh.pdf
+  # - title: "CV"
+  #   url: /files/CV-02_22_2026-KazemBakianDogaheh.pdf
   #  url: /cv/
     
   # - title: "CV"
