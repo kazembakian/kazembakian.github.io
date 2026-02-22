@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+ #   url: /research/
     
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+ #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+ #    url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
@@ -26,12 +26,12 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "YouTube"
-    url: /youtube/
+  #- title: "YouTube"
+  #  url: /youtube/
         
     
-  - title: "CV"
-     url:/files/CV-02_22_2026-Kazem Bakian-Dogaheh.pdf
+  #- title: "CV"
+  #   url:/files/CV-02_22_2026-Kazem Bakian-Dogaheh.pdf
   #  url: /cv/
     
   # - title: "CV"
@@ -40,5 +40,5 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
