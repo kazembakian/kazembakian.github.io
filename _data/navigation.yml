@@ -31,7 +31,8 @@ main:
         
     
   - title: "CV"
-    url: /cv/
+     url:/files/CV-02_22_2026-Kazem Bakian-Dogaheh.pdf
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
